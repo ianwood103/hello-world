@@ -1,0 +1,42 @@
+h2 {
+      color: blue;
+    }
+    
+    input {
+      color: blue; 
+      border-radius: 1%; 
+      border-color: blue; 
+      border-style: ridge;
+    }
+
+    img {
+      border-color: blue; 
+      border-radius: 10% 
+    }
+
+    * {
+      font-family: Georgia, serif; 
+      color: darkslategray;
+    }
+
+    p {
+      line-height: 1.5em;
+    }
+
+    h2 {
+      font-family: "Indie Flower", Georgia, serif;
+    }
+    
+    #header-text {
+      font-size: 40px; 
+      text-transform: uppercase; 
+      text-align: center; 
+      color: blue;
+    }
+    
+    #name {
+      text-align: right;
+      color: blue;
+      font-size: 10px;
+      font-family: "Indie Flower";
+    }
